@@ -18,7 +18,7 @@ theme_settings:
      <p>Ogni informazione è estratta da fonti attentibili quali il Ministero della Salute e ordinanze da parte del governo italiano</p>
   header_text_feature_image:
   footer_text: >
-   Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
+   <a href="mailtoçit.info.coronavirus@gmail.com">Per ulteriori Informazioni</a>
 
   # Icons
   rss: false
