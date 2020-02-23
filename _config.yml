@@ -18,7 +18,7 @@ theme_settings:
      <p>Ogni informazione è estratta da fonti attentibili quali il Ministero della Salute e ordinanze da parte del governo italiano</p>
   header_text_feature_image:
   footer_text: >
-   <a href="mailtoçit.info.coronavirus@gmail.com">Per ulteriori Informazioni</a>
+   <a href="mailto:it.info.coronavirus@gmail.com">Per ulteriori Informazioni</a>
 
   # Icons
   rss: false
