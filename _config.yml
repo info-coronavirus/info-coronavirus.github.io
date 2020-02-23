@@ -9,13 +9,13 @@ theme_settings:
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  description: "Informazioni aggiornate 24/7 sul COVID-19, corona virus, in Italia e sulla sua diffusione" # used by search engines
 
   # Header and footer text
   header_text: >
-     <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+     <p>Informazioni aggiornate 24/7 sul COVID-19, corona virus, in Italia e sulla sua diffusione</p>
 
-     <p>Remove all header text in <code>_config.yml</code> to disable this feature.</p>
+     <p>Ogni informazione è estratta da fonti attentibili quali il Ministero della Salute e ordinanze da parte del governo italiano</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
@@ -58,9 +58,9 @@ theme_settings:
   str_previous_post: "Previous post"
   str_next_page: "Next"
   str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
+  str_continue_reading: "Continua a leggere"
   str_javascript_required_disqus: "Please enable JavaScript to view comments."
-  str_search_no_results: "No results found."
+  str_search_no_results: "Nessun risultato trovato."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
